@@ -5,7 +5,7 @@
       "path": "README.md"
     },
     {
-      "hash": "bc47386111a1ce6aba10771ea8414781930d13930556e8d5d288460cd6b130ad",
+      "hash": "2fb1ed10eaaa802176e7a261971efa205f0b75bad172ce3ea15eca8ebffbc06a",
       "path": "content/_index.html"
     },
     {
@@ -13,85 +13,67 @@
       "path": "content/conveyloop.css"
     },
     {
-      "hash": "ef94f3581754174da081fcc1333855321459a1bf198d0445677bb52f0f3abbb4",
+      "hash": "626fe57ad6fc3b3a316ad8e9cb271130f41ec6bcd950be6bd39ae69c6499fee2",
       "path": "content/first-edition-checklist.html"
     },
     {
-      "hash": "27e050057185486daba171e13b849f6359fecd64c809ab195d443a552b34a5b9",
+      "hash": "9582d87066b38628b9892c654a7ca4201a63d98a10c299cbd46ebe0b999575a9",
       "path": "content/rare-book-care-guide.html"
     },
     {
-      "hash": "74cf84c040541e89c44a26679c8dc0038af538502761a7fa8994cc7b1e89f9a6",
+      "hash": "ea61b64a7fb3b568f16bb3ccf6e21d69fac532b89f3e5dc195eadb879a40d1a9",
       "path": "content/reading-room-hours.html"
     },
     {
-      "hash": "2348465808fa0086c4a7571d59f472338d9196511a1db35013e115a8189b38f0",
+      "hash": "512e21439ab1b242ced3b31769ac2c3eae807468a3ddf7b275c6609d423a6448",
       "path": "sitemap.xml"
     }
   ],
   "generator": "ConveyLoop SEO Git Integration",
   "pages": [
     {
-      "content_hash": "ef94f3581754174da081fcc1333855321459a1bf198d0445677bb52f0f3abbb4",
+      "content_hash": "626fe57ad6fc3b3a316ad8e9cb271130f41ec6bcd950be6bd39ae69c6499fee2",
       "file_path": "content/first-edition-checklist.html",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/conveyloop/seo/content/first-edition-checklist",
+        "canonical_url": "http://basekjb.pages.localhost:3025/first-edition-checklist",
         "description": "What to check before calling a book a first edition.",
         "structured_data": null,
         "title": "First Edition Checklist"
       },
+      "redirect_to": "http://basekjb.pages.localhost:3025/first-edition-checklist",
       "slug": "first-edition-checklist",
       "template_id": null,
       "title": "First Edition Checklist"
     },
     {
-      "content_hash": "27e050057185486daba171e13b849f6359fecd64c809ab195d443a552b34a5b9",
+      "content_hash": "9582d87066b38628b9892c654a7ca4201a63d98a10c299cbd46ebe0b999575a9",
       "file_path": "content/rare-book-care-guide.html",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/conveyloop/seo/content/rare-book-care-guide",
+        "canonical_url": "http://basekjb.pages.localhost:3025/rare-book-care-guide",
         "description": "How to store and handle rare books so they last.",
         "structured_data": null,
         "title": "Rare Book Care Guide"
       },
+      "redirect_to": "http://basekjb.pages.localhost:3025/rare-book-care-guide",
       "slug": "rare-book-care-guide",
       "template_id": null,
       "title": "Rare Book Care Guide"
     },
     {
-      "content_hash": "74cf84c040541e89c44a26679c8dc0038af538502761a7fa8994cc7b1e89f9a6",
+      "content_hash": "ea61b64a7fb3b568f16bb3ccf6e21d69fac532b89f3e5dc195eadb879a40d1a9",
       "file_path": "content/reading-room-hours.html",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/conveyloop/seo/content/reading-room-hours",
+        "canonical_url": "http://basekjb.pages.localhost:3025/reading-room-hours",
         "description": "When the reading room is open and how to request rare items.",
         "structured_data": null,
         "title": "Reading Room Hours"
       },
+      "redirect_to": "http://basekjb.pages.localhost:3025/reading-room-hours",
       "slug": "reading-room-hours",
       "template_id": null,
       "title": "Reading Room Hours"
     }
   ],
-  "sitemap_entries": [
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/conveyloop/seo/content",
-      "priority": 0.8
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/conveyloop/seo/content/first-edition-checklist",
-      "priority": 0.7
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/conveyloop/seo/content/rare-book-care-guide",
-      "priority": 0.7
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/conveyloop/seo/content/reading-room-hours",
-      "priority": 0.7
-    }
-  ],
+  "sitemap_entries": [],
   "version": "2"
 }
