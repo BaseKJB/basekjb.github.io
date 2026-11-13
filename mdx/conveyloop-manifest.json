@@ -5,67 +5,53 @@
       "path": "README.md"
     },
     {
-      "hash": "611f9367318dee8febe456aaf4fda77a528e5e713bbe4c90355a1a80a0e01c90",
+      "hash": "f975fc25826399d391fe07c88aac77d2bc28afae869f97ff61554ca317a9ea4a",
       "path": "content/_index.mdx"
     },
     {
-      "hash": "8b2b925af15e803f5270fe3b96f658a12f63fde80786dc41c3c0d5de86c4cda4",
+      "hash": "4afda62c48be01f7e04f30d03f0cdb6d70e99d6f07830ef4cd3e371e4ddac32e",
       "path": "content/book-sizes-explained.mdx"
     },
     {
-      "hash": "d69700039b44d1656b6243dc7351df732dd2fb31db7e2cc6b878b7f307211c44",
+      "hash": "2d914ac8ffdb42c40b9994211599021f8baa9936956395098fe44e88b4221411",
       "path": "content/how-to-date-an-old-book.mdx"
     },
     {
-      "hash": "0ef828cfc00930c5393ad7bbd16fb5e5b358cc86e88b76dd2b5c736531c4012c",
+      "hash": "512e21439ab1b242ced3b31769ac2c3eae807468a3ddf7b275c6609d423a6448",
       "path": "sitemap.xml"
     }
   ],
   "generator": "ConveyLoop SEO Git Integration",
   "pages": [
     {
-      "content_hash": "8b2b925af15e803f5270fe3b96f658a12f63fde80786dc41c3c0d5de86c4cda4",
+      "content_hash": "4afda62c48be01f7e04f30d03f0cdb6d70e99d6f07830ef4cd3e371e4ddac32e",
       "file_path": "content/book-sizes-explained.mdx",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/mdx/content/book-sizes-explained",
+        "canonical_url": "http://basekjb-xwch.pages.localhost:3025/book-sizes-explained",
         "description": "Folio, quarto and octavo in plain words.",
         "structured_data": null,
         "title": "Book Sizes Explained"
       },
+      "redirect_to": "http://basekjb-xwch.pages.localhost:3025/book-sizes-explained",
       "slug": "book-sizes-explained",
       "template_id": null,
       "title": "Book Sizes Explained"
     },
     {
-      "content_hash": "d69700039b44d1656b6243dc7351df732dd2fb31db7e2cc6b878b7f307211c44",
+      "content_hash": "2d914ac8ffdb42c40b9994211599021f8baa9936956395098fe44e88b4221411",
       "file_path": "content/how-to-date-an-old-book.mdx",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/mdx/content/how-to-date-an-old-book",
+        "canonical_url": "http://basekjb-xwch.pages.localhost:3025/how-to-date-an-old-book",
         "description": "Clues that tell you when an old book was printed.",
         "structured_data": null,
         "title": "How to Date an Old Book"
       },
+      "redirect_to": "http://basekjb-xwch.pages.localhost:3025/how-to-date-an-old-book",
       "slug": "how-to-date-an-old-book",
       "template_id": null,
       "title": "How to Date an Old Book"
     }
   ],
-  "sitemap_entries": [
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/mdx/content",
-      "priority": 0.8
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/mdx/content/book-sizes-explained",
-      "priority": 0.7
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/mdx/content/how-to-date-an-old-book",
-      "priority": 0.7
-    }
-  ],
+  "sitemap_entries": [],
   "version": "2"
 }
