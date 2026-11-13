@@ -1,0 +1,75 @@
+{
+  "files": [
+    {
+      "hash": "6dd3a560c12934a67ec403cbd7dc3efdbcad3539bcb6f25eb3912acc0cd83fa8",
+      "path": "README.md"
+    },
+    {
+      "hash": "6bf6c1610d3d55a42e37f3e4639fa5ce60b901b0a2d4b465735b163f0f2b8666",
+      "path": "content/_index.html"
+    },
+    {
+      "hash": "e7573ffbc3167e78449514dd46ec4ff959475ba6b15a1758908fb6b21eed25dd",
+      "path": "content/conveyloop.css"
+    },
+    {
+      "hash": "5ebba8c686585dbab3081c7adf60bce34e2e43cd22e25a85e1ce490b326fb548",
+      "path": "content/first-edition-checklist.html"
+    },
+    {
+      "hash": "59a1498ba707bc710c09e4408fcf8e626bcbb0c8693c1bc840ffd8eee5a0422d",
+      "path": "content/rare-book-care-guide.html"
+    },
+    {
+      "hash": "66dea8dbf710a7b49e611568df469884b8ef7b2221e0f989bf8e3c13c1192e52",
+      "path": "sitemap.xml"
+    }
+  ],
+  "generator": "ConveyLoop SEO Git Integration",
+  "pages": [
+    {
+      "content_hash": "5ebba8c686585dbab3081c7adf60bce34e2e43cd22e25a85e1ce490b326fb548",
+      "file_path": "content/first-edition-checklist.html",
+      "meta": {
+        "canonical_url": "https://basekjb.github.io/guides/content/first-edition-checklist",
+        "description": "What to check before calling a book a first edition.",
+        "structured_data": null,
+        "title": "First Edition Checklist"
+      },
+      "slug": "first-edition-checklist",
+      "template_id": null,
+      "title": "First Edition Checklist"
+    },
+    {
+      "content_hash": "59a1498ba707bc710c09e4408fcf8e626bcbb0c8693c1bc840ffd8eee5a0422d",
+      "file_path": "content/rare-book-care-guide.html",
+      "meta": {
+        "canonical_url": "https://basekjb.github.io/guides/content/rare-book-care-guide",
+        "description": "How to store and handle rare books so they last.",
+        "structured_data": null,
+        "title": "Rare Book Care Guide"
+      },
+      "slug": "rare-book-care-guide",
+      "template_id": null,
+      "title": "Rare Book Care Guide"
+    }
+  ],
+  "sitemap_entries": [
+    {
+      "changefreq": "weekly",
+      "loc": "https://basekjb.github.io/guides/content",
+      "priority": 0.8
+    },
+    {
+      "changefreq": "weekly",
+      "loc": "https://basekjb.github.io/guides/content/first-edition-checklist",
+      "priority": 0.7
+    },
+    {
+      "changefreq": "weekly",
+      "loc": "https://basekjb.github.io/guides/content/rare-book-care-guide",
+      "priority": 0.7
+    }
+  ],
+  "version": "2"
+}
