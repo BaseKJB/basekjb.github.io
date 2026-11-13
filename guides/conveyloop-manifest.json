@@ -5,7 +5,7 @@
       "path": "README.md"
     },
     {
-      "hash": "6bf6c1610d3d55a42e37f3e4639fa5ce60b901b0a2d4b465735b163f0f2b8666",
+      "hash": "2fb1ed10eaaa802176e7a261971efa205f0b75bad172ce3ea15eca8ebffbc06a",
       "path": "content/_index.html"
     },
     {
@@ -13,63 +13,49 @@
       "path": "content/conveyloop.css"
     },
     {
-      "hash": "5ebba8c686585dbab3081c7adf60bce34e2e43cd22e25a85e1ce490b326fb548",
+      "hash": "626fe57ad6fc3b3a316ad8e9cb271130f41ec6bcd950be6bd39ae69c6499fee2",
       "path": "content/first-edition-checklist.html"
     },
     {
-      "hash": "59a1498ba707bc710c09e4408fcf8e626bcbb0c8693c1bc840ffd8eee5a0422d",
+      "hash": "9582d87066b38628b9892c654a7ca4201a63d98a10c299cbd46ebe0b999575a9",
       "path": "content/rare-book-care-guide.html"
     },
     {
-      "hash": "66dea8dbf710a7b49e611568df469884b8ef7b2221e0f989bf8e3c13c1192e52",
+      "hash": "512e21439ab1b242ced3b31769ac2c3eae807468a3ddf7b275c6609d423a6448",
       "path": "sitemap.xml"
     }
   ],
   "generator": "ConveyLoop SEO Git Integration",
   "pages": [
     {
-      "content_hash": "5ebba8c686585dbab3081c7adf60bce34e2e43cd22e25a85e1ce490b326fb548",
+      "content_hash": "626fe57ad6fc3b3a316ad8e9cb271130f41ec6bcd950be6bd39ae69c6499fee2",
       "file_path": "content/first-edition-checklist.html",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/guides/content/first-edition-checklist",
+        "canonical_url": "http://basekjb.pages.localhost:3025/first-edition-checklist",
         "description": "What to check before calling a book a first edition.",
         "structured_data": null,
         "title": "First Edition Checklist"
       },
+      "redirect_to": "http://basekjb.pages.localhost:3025/first-edition-checklist",
       "slug": "first-edition-checklist",
       "template_id": null,
       "title": "First Edition Checklist"
     },
     {
-      "content_hash": "59a1498ba707bc710c09e4408fcf8e626bcbb0c8693c1bc840ffd8eee5a0422d",
+      "content_hash": "9582d87066b38628b9892c654a7ca4201a63d98a10c299cbd46ebe0b999575a9",
       "file_path": "content/rare-book-care-guide.html",
       "meta": {
-        "canonical_url": "https://basekjb.github.io/guides/content/rare-book-care-guide",
+        "canonical_url": "http://basekjb.pages.localhost:3025/rare-book-care-guide",
         "description": "How to store and handle rare books so they last.",
         "structured_data": null,
         "title": "Rare Book Care Guide"
       },
+      "redirect_to": "http://basekjb.pages.localhost:3025/rare-book-care-guide",
       "slug": "rare-book-care-guide",
       "template_id": null,
       "title": "Rare Book Care Guide"
     }
   ],
-  "sitemap_entries": [
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/guides/content",
-      "priority": 0.8
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/guides/content/first-edition-checklist",
-      "priority": 0.7
-    },
-    {
-      "changefreq": "weekly",
-      "loc": "https://basekjb.github.io/guides/content/rare-book-care-guide",
-      "priority": 0.7
-    }
-  ],
+  "sitemap_entries": [],
   "version": "2"
 }
